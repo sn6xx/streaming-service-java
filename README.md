@@ -23,4 +23,4 @@ A desktop-based streaming service system developed using Java.
 This project demonstrates the implementation of a complete object-oriented system, including inheritance hierarchies, interfaces, abstract classes, and user interaction through both console and GUI.
 
 ## Author
-Saja AljamalXD
+Saja Aljamal XD
