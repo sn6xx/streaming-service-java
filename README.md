@@ -3,7 +3,7 @@
 A desktop-based streaming service system developed using Java.
 
 ## GUI Preview
-<img src="image.png" width="500">
+<img src="image.png" width="600">
 
 Simple Java Swing interface displaying available media and basic controls.
 
