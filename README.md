@@ -2,6 +2,9 @@
 
 A desktop-based streaming service system developed using Java.
 
+## GUI Preview
+![GUI](image.png)
+
 ## Features
 - Manage Movies, Series, and Podcasts
 - Add and remove media dynamically
