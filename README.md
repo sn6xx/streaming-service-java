@@ -36,4 +36,4 @@ This project demonstrates the implementation of a complete object-oriented syste
 - Choose option `12` to launch the GUI
 
 ## Author
-Saja Aljamal
+Saja Aljamal XD
