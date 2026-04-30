@@ -44,6 +44,7 @@ public class Main {
                     case 1:
                         System.out.print("Enter Movie number: ");
                         int j = input.nextInt();
+                        input.nextLine(); 
                         if (j <= 0) {
                             System.err.println("invalid number!");
                         }
@@ -63,6 +64,7 @@ public class Main {
 
                         System.out.print("Enter Director Id: ");
                         int Id = input.nextInt();
+                        input.nextLine(); 
                         if (Id <= 0) {
                             System.err.println("invalid number!");
                         }
